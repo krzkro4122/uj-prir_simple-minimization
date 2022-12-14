@@ -1,2 +1,2 @@
-build_and_run:
+test:
 	c++ -O -fopenmp *.cpp && ./a.out
