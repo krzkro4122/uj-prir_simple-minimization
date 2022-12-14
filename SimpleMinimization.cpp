@@ -1,11 +1,10 @@
 #include "SimpleMinimization.h"
 
-#include<sys/time.h>
-#include<iostream>
-#include<stdlib.h>
-#include<vector>
-#include<math.h>
-#include<omp.h>
+#include <sys/time.h>
+#include <iostream>
+#include <stdlib.h>
+#include <math.h>
+#include <omp.h>
 
 const double DR_SHRINK = 0.8;
 
